@@ -64,7 +64,17 @@ A console-based Java SE application for managing students, courses, enrollments,
 - Menu options in CLI for all operations
 
 ## Screenshots
-- See `screenshots/` folder for setup and demo images
+Below are some screenshots of the CCRM application in action:
+
+![Screenshot 590](src/screenshots/Screenshot%20(590).png)
+![Screenshot 591](src/screenshots/Screenshot%20(591).png)
+![Screenshot 592](src/screenshots/Screenshot%20(592).png)
+![Screenshot 593](src/screenshots/Screenshot%20(593).png)
+![Screenshot 594](src/screenshots/Screenshot%20(594).png)
+![Screenshot 595](src/screenshots/Screenshot%20(595).png)
+![Screenshot 596](src/screenshots/Screenshot%20(596).png)
+![Screenshot 597](src/screenshots/Screenshot%20(597).png)
+![Screenshot 598](src/screenshots/Screenshot%20(598).png)
 
 ## Acknowledgements
 - All code is original. References cited as needed.
