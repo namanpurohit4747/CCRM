@@ -51,9 +51,13 @@ courses.csv: `code,title,credits,instructor,semester,department`
 A console-based Java SE application for managing students, courses, enrollments, grades, transcripts, and file operations for an academic institute.
 
 ## How to Run
-- Requires JDK 17+ (or as per syllabus)
-- Compile: `javac -d bin src/edu/ccrm/CCRMApp.java`
-- Run: `java -cp bin edu.ccrm.CCRMApp`
+- **JDK Version:** Requires Java SE 17 or higher (developed on JDK 21).
+- **Clone the repository:**
+	```sh
+	git clone https://github.com/namanpurohit4747/CCRM
+	```
+- **Compile & Run:** Open the project in an IDE like Eclipse and run the `edu.ccrm.cli.Main` class.
+- **Enable Assertions:** To run with assertions enabled (for the demo), use the VM argument `-ea`.
 
 ## Evolution of Java (Timeline)
 - 1995: Java 1.0 released
