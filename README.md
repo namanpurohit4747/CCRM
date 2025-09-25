@@ -145,6 +145,5 @@ Below are some screenshots of the CCRM application in action:
 - All code is original. References cited as needed.
 
 **Author:** Naman Purohit  
-Reg. No.: 24BCE10971  
 Course: (CSE2006) Programming in Java  
 Institution: Vellore Institute of Technology, Bhopal
