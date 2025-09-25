@@ -79,5 +79,7 @@ Below are some screenshots of the CCRM application in action:
 ## Acknowledgements
 - All code is original. References cited as needed.
 
----
-**Note:** This is a project scaffold. Source code, screenshots, and demo video to be added as development progresses.
+**Author:** Naman Purohit  
+Reg. No.: 24BCE10971  
+Course: (CSE2006) Programming in Java  
+Institution: Vellore Institute of Technology, Bhopal
